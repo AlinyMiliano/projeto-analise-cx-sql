@@ -50,7 +50,3 @@ docs/
 - Uso de CASE WHEN
 - Agrupamentos com GROUP BY
 - Geração de KPIs e análise de dados.
-
-
-docs/
-└── insights.md
