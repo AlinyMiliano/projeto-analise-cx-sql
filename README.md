@@ -14,7 +14,7 @@ A empresa quer responder perguntas como:
 - Quais categorias geram mais chamados 
 - Quais atendentes têm melhor desempenho
 
-AS ANÁLISES TEM COMO FOCO ENTENDER OS INDICADOES DE QUALIDADE DE ATENDIMENTO AO CLIENTE (CX), UTILIZANDO SQL PARA MODELAGEM CONSULTA E GERAÇÃO DE MÉTRICAS OPERACIONAIS"
+As análises têm como foco entender os indicadoes de qualidade de atendimento ao cliente (cx), utilizando sql para modelagem consulta e geração de métricas operacionais
 
 # Ferramentas Utilizadas
 PostgreSQL
